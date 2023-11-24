@@ -1,7 +1,7 @@
 # About me
 
 - Currently studying computer-science at FMI UBB Cluj-Napoca
-- You can find my university projects here
+- You can find my university projects [here](https://github.com/buian-dragos/ubb-projects)
 - You can contact me here: buiandragos@gmail.com
 
 
